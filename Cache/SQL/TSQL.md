@@ -1,0 +1,1 @@
+Es lo que he [encontrado](https://tsqlstyle.lowlydba.com/).

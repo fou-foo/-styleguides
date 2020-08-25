@@ -1,0 +1,1 @@
+Más corta que el manual de MySQL [https://www.sqlstyle.guide/](https://www.sqlstyle.guide/).
